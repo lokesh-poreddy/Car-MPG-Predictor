@@ -1,4 +1,4 @@
-# RestoreMasters Car MPG Predictor
+# Car MPG Predictor
 
 A machine learning web application that predicts car fuel efficiency (MPG - Miles Per Gallon) based on vehicle specifications.
 
